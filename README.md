@@ -1,4 +1,4 @@
-# EZSnaps 
+# EZSnap
 EZSnap is a simple tool for capturing screenshots on Windows.
 ## Installation
 1: Clone the repository to your local machine
