@@ -1,0 +1,6 @@
+keyboard==0.13.5
+Pillow==9.2.0
+Pillow==10.2.0
+PyGetWindow==0.0.9
+pywin32==306
+screeninfo==0.8.1
