@@ -15,18 +15,18 @@ python EZSnaps.py
 ```
 
 # Features 
-**Window Selection Mode** Allows users to select a window by clicking on it and captures a screenshot of the selected window.\
+**Window Selection Mode** Allows users to select a window by clicking on it and captures a screenshot of the selected window.  <br>
 
-**Full-Screen Mode** Captures a screenshot of the entire screen or all screens if you have multiple monitors\
+**Full-Screen Mode** Captures a screenshot of the entire screen or all screens if you have multiple monitors  <br>
 
-**Clipboard Integration** Automatically copies the captured screenshot to the clipboard for easy pasting into other applications.\
-
-**Rectangle Selection** Allows users to select a rectangle area by clicking and dragging with mouse\
+**Clipboard Integration** Automatically copies the captured screenshot to the clipboard for easy pasting into other applications.  <br>
+ 
+**Rectangle Selection** Allows users to select a rectangle area by clicking and dragging with mouse  <br>
 
 ## Usage
-Upon running the application press **F10** to enter screenshot mode\
+Upon running the application press **F10** to enter screenshot mode  <br>
 
-The captured screenshots will be saved to the **Pictures/EZSnaps** folder on your system and copied to the clipboard.\
+The captured screenshots will be saved to the **Pictures/EZSnaps** folder on your system and copied to the clipboard.  <br>
 
 To exit screenshot mode simply **right click** anywhere
 
